@@ -4,7 +4,7 @@ h1 {text-align: center;
     font-size: 56px ;
    }
 
-section {border: 1px solid black;
+section {border: 2px solid black;
          padding: 20px;
          margin-top: 50px;
 	     margin-right: auto;
@@ -40,21 +40,21 @@ body {margin: 10px;
                    
                   }	 
         #chicken {position: absolute;
-                  top:5px;
-                  right: 5px;
+                  top:0px;
+                  right: 0px;
                   border: 1px solid black;
                   background-color: blanchedalmond;
                   font-size: 1.25em;
                  }      
         #beef    {position: absolute;
-                  top:5px;
-                  right: 5px;
+                  top:0px;
+                  right: 0px;
                   border: 1px solid black;
                   background-color: #C0C0C0;
                   font-size: 1.25em;}
         #sushi   {position: absolute;
-                  top:5px;
-                  right: 5px;
+                  top:0px;
+                  right: 0px;
                   border: 1px solid black;
                   background-color: skyblue;
                   font-size: 1.25em;}
